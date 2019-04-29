@@ -1,0 +1,3 @@
+set_pin_assignment {clk_in} { LOCATION = K14;  }
+set_pin_assignment {pwm_out} { LOCATION = R3;  }
+set_pin_assignment {rst_n} { LOCATION = K16;  }
